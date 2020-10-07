@@ -1,0 +1,31 @@
+
+B CSOPORT
+1.
+Teli elem:<valami> </valami>
+üres elem: <valami/> 
+
+
+2. charset='utf-8'
+<html lang='hu'>
+
+3.
+a címben
+
+4.
+<meta> author name='Levente' />
+
+
+ 5.
+ <img src=../../'' alt='kép' 'jpg'/>
+ 
+ +1.
+ !DOCTYPE html 
+ <html lang='hu'>
+ <meta> charset='utf-8' </meta>
+ <title> Remélem jól sikerült </title>
+ <head>
+ <body>
+
+ </head>
+ </body>
+ </html>
